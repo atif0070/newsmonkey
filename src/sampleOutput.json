@@ -1,0 +1,65 @@
+{
+  "status": "ok",
+  "totalResults": 2,
+  "articles": [
+    {
+      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+      "author": null,
+      "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+      "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+      "publishedAt": "2020-04-27T11:41:47Z",
+      "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+    },
+    {
+      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+      "author": null,
+      "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+      "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+      "publishedAt": "2020-03-30T15:26:05Z",
+      "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Lifehacker.com"
+      },
+      "author": "Jake Peterson",
+      "title": "The Easiest Ways to Sync iMessages Across All Your Devices",
+      "description": "I recently picked up a new iPhone, and for the most part, I love it. What I didn’t love was not having my iMessages on my new iPhone synced up with my other Apple devices. Sure, my new phone had my most recent messages, but from there, things got weird. For e…",
+      "url": "https://lifehacker.com/the-easiest-ways-to-sync-imessages-across-all-your-devi-1850002677",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/34be078e9c1af8f1a3cf54b3001ac49d.jpg",
+      "publishedAt": "2023-01-19T14:00:00Z",
+      "content": "I recently picked up a new iPhone, and for the most part, I love it. What I didnt love was not having my iMessages on my new iPhone synced up with my other Apple devices. Sure, my new phone had my mo… [+3582 chars]"
+    },
+    {
+      "source": {
+        "id": "engadget",
+        "name": "Engadget"
+      },
+      "author": "Will Shanklin",
+      "title": "Apple's new 14-inch MacBook Pro gets its first discount on Amazon",
+      "description": "We’re already seeing the first discounts on the new 14-inch MacBook Pro, which Apple announced earlier this week. Amazon has the entry-level MacBook Pro with the M2 Pro chip for $50 off ($1,950). Meanwhile, Best Buy is tying pre-order discounts to its TotalTe…",
+      "url": "https://www.engadget.com/14-inch-macbook-pro-apple-deals-discount-amazon-best-buy-172511277.html",
+      "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2023-01/53be1ae0-981b-11ed-bf86-2608dca1d7e6",
+      "publishedAt": "2023-01-19T17:25:11Z",
+      "content": "Were already seeing the first discounts on the new 14-inch MacBook Pro, which Apple announced earlier this week. Amazon has the entry-level MacBook Pro with the M2 Pro chip for $50 off ($1,950). Mean… [+1486 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Quiz of the week: What got cut from Apple boss's pay packet?",
+      "description": "How closely have you been paying attention to what's been going on over the past seven days?",
+      "url": "https://www.bbc.co.uk/news/world-64319567",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/B936/production/_128341474_cookpromoepas.jpg",
+      "publishedAt": "2023-01-19T16:14:35Z",
+      "content": "It's the weekly news quiz - how closely have you been paying attention to what's been going on in the world over the past seven days?\r\nIf you cannot see the quiz, follow this link. \r\nTry last week's … [+110 chars]"
+    }
+  ]
+}
